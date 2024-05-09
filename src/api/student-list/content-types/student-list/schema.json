@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "student_lists",
+  "info": {
+    "singularName": "student-list",
+    "pluralName": "student-lists",
+    "displayName": "student-list"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "first_name": {
+      "type": "string"
+    }
+  }
+}
